@@ -1,0 +1,14 @@
+**/nbproject/private/
+**/nbproject/Makefile-*.mk
+**/nbproject/Package-*.bash
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+.DS_Store
+replay_pid10892.log
+hs_err_pid10892.log
+*.log
+MyLogFile*
+logs/
